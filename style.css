@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+    text-align: center; 
+}
+img{
+    height: 250px;
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-top: 1rem;
+}
+h1{
+    margin-top: 1rem;
+    color: white;
+}
+button{
+    font-size: 20px;
+    padding: 0.2rem;
+    margin-top: 1rem;
+    background-color: #343434;
+    color: white;
+    box-shadow: 2px 2px 4px black;
+}
